@@ -1,4 +1,4 @@
-# assessment-1
+# Assessment-1
 
 This is a simple React application that displays a list of users retrieved from an API. The application includes a form for inputting author names and displaying submitted names. Users can also fetch and view details of all the authors whose details have been retrieved from the api call.
 
@@ -18,8 +18,12 @@ This is a simple React application that displays a list of users retrieved from 
 To set up and run this project locally, follow these steps:
 
 1. Clone the repository:
+   ```
    git clone [<repository-url>](https://github.com/rrachea/assessment-1.git)
+   ```
 
-2. Run the Application:
+3. Run the Application:
+   ```
    cd my-app
    npm run start
+   ```
